@@ -1,0 +1,7 @@
+{
+  "name": "NutriPlan AI",
+  "description": "Your personal AI nutritionist and meal planner. Generate meal plans, identify ingredients from photos, and chat with a wellness coach.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
